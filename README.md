@@ -2,7 +2,9 @@
 
 **Description:**
 
-This Progressive Web App (PWA) helps you locate chests in the Third Sea of Blox Fruits, making your hunt for the God's Chalice more efficient.  
+This Progressive Web App (PWA) helps you locate chests in the Third Sea of Blox Fruits, making your hunt for the God's Chalice more efficient.
+
+![Alt text](screenshot.png?raw=true "Screen Shot")
 
 **Features:**
 
