@@ -21,12 +21,4 @@ This Progressive Web App (PWA) helps you locate chests in the Third Sea of Blox 
 
 **Disclaimer:**
 
-This application is a fan-made tool and is not affiliated with Blox Fruits or Roblox Corporation. 
-
-**Additional Information (Optional):**
-
-* Consider adding a screenshot of the app's interface.
-* If you plan on updating the app with new features, mention it in the readme.
-* You can provide a link to your GitHub repository or website for further information.
-
-This improved version provides a clearer description, highlights key features, and offers a user-friendly guide to get started.  Remember to replace the bracketed text with the actual link to the Blox Fruits Wiki. 
+This application is a fan-made tool and is not affiliated with Blox Fruits or Roblox Corporation.
